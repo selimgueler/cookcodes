@@ -1,6 +1,10 @@
 <h1>WPF Watermark for Textbox </h1>
+
 <p>A very simple yet powerful approach using only XAML. We will use the existing control/property TAG of the TextBox element to display a watermark / placeholder text.</p>
-//TODO Add image
+
+![alt text][outputImage]
+
+
 <p>Add the following style either to a Page under <Window.Resources> node or add it to App.xaml to make it globally available to all your textboxes.</p>
 
 ```xaml
@@ -37,11 +41,15 @@
             </Setter>
         </Style>
 ```
+The color of the watermark is Gray and can be changed inside the <b>DataTrigger</b>.
 
-You can use this style on any <b>TextBox</b> as follows:
+Now you can use this style on any <b>TextBox</b> as follows:
 ```xaml
 
-
+<TextBox Tag="Type here to search..." Style="{StaticResource GTech:WatermarkStyle}" Background="LightYellow" Foreground="Gray" </TextBox>
 
 ```
 
+
+
+[outputImage]: https://github.com/selimgueler/cookcodes/blob/selimgueler-draft/OutputWPF_Watermark.gif "Output"
