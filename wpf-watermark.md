@@ -1,4 +1,4 @@
-#WPF Watermark / Placeholder for TextBox 
+# WPF Watermark / Placeholder for TextBox 
 
 <p>A very simple yet powerful approach using only XAML. We will use the existing control/property TAG of the TextBox element to display a watermark / placeholder text.</p>
 
