@@ -52,7 +52,7 @@ Now you can use this style on any <b>TextBox</b> as follows:
 
 
 
-[outputImage]: https://github.com/selimgueler/cookcodes/blob/selimgueler-draft/OutputWPF_Watermark.gif "Output"
+[outputImage]: images/OutputWPF_Watermark.gif "Output"
 
 
 ##### Enjoy!
