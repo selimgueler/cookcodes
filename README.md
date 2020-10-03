@@ -6,12 +6,14 @@ I am going to create a cook book style documentation on this repo.
 
 ## [Xamarin and Fontawesome Icons / AppShell][xamarin-fontawesome]
 
+## [Xamarin Settings Page Example][xamarin-settings-layout]
 
 
 
 
 
-
-[wpf-watermark]:https://github.com/selimgueler/cookcodes/blob/master/wpf-watermark.md
+[wpf-watermark]:wpf-watermark.md
 [xamarin-fontawesome]:XamarinAppShell_Fontawesome.md
+[xamarin-settings-layout]: Xamarin.SettingsPage.Layout.md
+
 
