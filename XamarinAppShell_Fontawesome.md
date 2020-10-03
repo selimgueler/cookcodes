@@ -63,5 +63,7 @@ For example for the code **f080** which is displayed on the website, you need to
  </TabBar>
  ```
  
+ ![alt-text][AppShellFontIcons]
  
- [outputImage]: images/image.png "AppShell in Android with Font Icons"
+ 
+[AppShellFontIcons]: images/final_android_screenshot_fontawesome_icon.png "AppShellFontIcons"
