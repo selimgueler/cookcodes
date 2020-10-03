@@ -1,6 +1,26 @@
 # Xamarin Settings Page Layout Reference
 
-Example: The following should be self-explanatory.
+## Define Column Definitions in AppResources
+
+Modify the Width of ColumnDefinition as required.
+
+```xml
+<Style TargetType="Grid" x:Key="GridSettingsColumnsStyle">
+                <Setter Property="Margin" Value="0,10"></Setter>
+                <Setter Property="Grid.ColumnDefinitions">
+                    <Setter.Value>
+                        <ColumnDefinitionCollection>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="20"></ColumnDefinition>
+                        </ColumnDefinitionCollection>
+                    </Setter.Value>
+                </Setter>
+</Style>
+```
+
+## Implemention code in a Page
+
+Example: The following should be self-explanatory. You should get the following result.
 
 ![alt-text][outputImage]
 
