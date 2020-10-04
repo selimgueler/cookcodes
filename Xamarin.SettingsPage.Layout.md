@@ -1,5 +1,12 @@
 # Xamarin Settings Page Layout Reference
 
+
+| Product               | Version       | 
+| -------------         |:-------------:| 
+| Visual Studio 2019    | 16.7.4        | 
+| Xamarin.Forms         | 4.7.0.1351    |  
+  
+
 ## Define Column Definitions in AppResources
 
 Modify the Width of ColumnDefinition as required.

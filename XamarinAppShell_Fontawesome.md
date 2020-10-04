@@ -1,5 +1,11 @@
 # Using Fontawesome Font in Xamarin Applications
 
+| Product               | Version       | 
+| -------------         |:-------------:| 
+| Visual Studio 2019    | 16.7.4        | 
+| Xamarin.Forms         | 4.7.0.1351    |  
+
+
 ## Get the OTF file from Fontawesome 
 
 ### Step 1 - Download 
